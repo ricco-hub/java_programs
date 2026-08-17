@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=chessÇUI
+comment1.paramq=
+commeît1.target=void\ chessGUI()
+comment2.params=mainApp
+comment2.target=javq.awt.Container\ createGUI bavax.swing.JFrame)
+comment3.params=eŠcomment3.target=void\ acti/nPerformed(java.awtnevent.ActionEvent+
+commenp4.params=e
+comment4.target=void\ windowGaknedFocus(java.awt.event.WindowAvent)
+comment5.parqls=e
+comment5.target=void\ windOwLostFocus(java.awt.event.WindowEvent)
+numComments=6

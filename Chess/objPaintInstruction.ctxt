@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=objPaintInstruction()
+comment1.params=firstRow\ firstColumn
+comment1.target=objPaintInstruction(int,\ int)
+comment2.params=startRow\ startColumn\ numCells
+comment2.target=objPaintInstruction(int,\ int,\ int)
+comment3.params=firstRow\ firstColumn
+comment3.target=void\ calculateRedrawCells(int,\ int)
+comment4.params=firstRow\ firstColumn
+comment4.target=void\ setMatrix(int,\ int)
+comment5.params=startRow\ startColumn\ numCells
+comment5.target=void\ setMatrix(int,\ int,\ int)
+comment6.params=
+comment6.target=int\ getStartRow()
+comment7.params=
+comment7.target=int\ getStartColumn()
+comment8.params=
+comment8.target=int\ getRowCells()
+comment9.params=
+comment9.target=int\ getColumnCells()
+numComments=10

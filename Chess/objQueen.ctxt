@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=objQueen
+comment1.params=
+comment1.target=void\ objQueen()
+comment2.params=startRow\ startColumn\ desRow\ desColumn\ playerMatrix
+comment2.target=boolean\ legalMove(int,\ int,\ int,\ int,\ int[][])
+numComments=3

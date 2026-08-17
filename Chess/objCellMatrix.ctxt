@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=objCellMatrix
+comment1.params=
+comment1.target=void\ objCellMatrix()
+comment2.params=
+comment2.target=void\ resetMatrix()
+comment3.params=row\ column
+comment3.target=int\ getPlayerCell(int,\ int)
+comment4.params=row\ column
+comment4.target=int\ getPieceCell(int,\ int)
+comment5.params=row\ column\ player
+comment5.target=void\ setPlayerCell(int,\ int,\ int)
+comment6.params=row\ column\ piece
+comment6.target=void\ setPieceCell(int,\ int,\ int)
+comment7.params=
+comment7.target=int[][]\ getPlayerMatrix()
+comment8.params=
+comment8.target=int[][]\ getPieceMatrix()
+comment9.params=currentPlayer
+comment9.target=boolean\ checkWinner(int)
+numComments=10

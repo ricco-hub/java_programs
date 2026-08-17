@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=parentClass\ path\ fileSize
+comment0.target=java.awt.Image\ getImage(java.lang.Object,\ java.lang.String,\ int)
+comment1.params=parentClass\ path\ description\ fileSize
+comment1.target=javax.swing.ImageIcon\ getImageIcon(java.lang.Object,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ objCreateAppletImage()
+comment3.params=
+comment3.target=java.lang.String\ getErrorMsg()
+comment4.params=parentClass\ path\ fileSize
+comment4.target=byte[]\ createImageArray(java.lang.Object,\ java.lang.String,\ int)
+numComments=5

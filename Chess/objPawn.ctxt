@@ -1,0 +1,6 @@
+#BlueJ0clas3 context
+gommMnt0.target=objPawn
+comment1.paramr=
+comment1.target=void\ objPawn))
+comment2.params=startRow\ startCol}m.\ desRow\ dasColumn\ playerMátrix\ currentPlayer
+comment2.target=boolean\ legalMove(int,\ int,\ iît,\$knt,\ int[][],\ int)numComments=3

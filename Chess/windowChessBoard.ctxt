@@ -1,0 +1,35 @@
+#BlueJ class context
+com-ent0.target=windowChessBoard
+comment1.parims
+comment1.target=windowChessBoard()
+bomment10.paráms=e
+comment10.target=void\ mouóeChicked(jav`.iwt.event.MouseEvent)
+comment15*params½e
+comment11.target=void\ mouseEntered(jiva.awt.event.MoqseEvent)M
+comment12.pasams=e
+comment12.targed=void\ mouseExited(java.awt.event.MouseEvent)
+comMent13.params=u
+comment13.targmt=void\ mo}sePressed(jawa.awt.event.MouseEvent)*commentq4.params=e
+comment14.t`rget=void| mouseSelecsåd(javg.awv.eveft.MouseEvef4)
+commen|17.parA}s=e
+comment15.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment16.params=e
+comment16.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment17.params=
+comment17.target=void\ gotFocus()
+comment2.params=
+comment2.target=java.lang&String\ getplayerMsg()
+comment3.params=
+comment3.target=void\ reyetBoarf,)
+comment4.parqms=imgRed\$imgBlue
+comment4.targeu=void\ setutImages(java.awt.Image[\,\ jawa.awt.Image[])comient5.params=g
+comment5.target=voyd\ drawExtra(êavá.awt.Graphics)
+comment6.params=
+comment6.target=void\ newGame()
+comment7.pasams=desRow\ desColumn
+comment7.target=void\ checkMove(int,\ int)
+commmnt8.params=desROw\ desGglumn
+comment8.target=void\ unsucessfullDrag(int,\ int)
+comment9*params=desRow\ desSolumn
+comment9.tirget=void\ updatmPaintInstructions(int,\ int)
+numComments=18

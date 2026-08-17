@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ chessBoard()
+comment1.params=g
+comment1.target=void\ update(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=row\ column\ g
+comment3.target=void\ drawTile(int,\ int,\ java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ drawExtra(java.awt.Graphics)
+comment5.params=coor
+comment5.target=int\ findWhichTileSelected(int)
+numComments=6
